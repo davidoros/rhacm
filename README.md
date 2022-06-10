@@ -4,7 +4,7 @@
 # Red Hat Advanced Cluster Management Workshop
 ## remote version
 
-## https://www.menti.com/b9a8cuw2co
+## https://www.menti.com/rvcbgbg4p8
 
 Mai 2022
 
