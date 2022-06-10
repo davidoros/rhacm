@@ -25,7 +25,7 @@ The purpose of this workshop is to show attendees the benefits of Red Hat Advanc
 
 12:00		BREAK
 
-13:00		Installing ACM on a OpenSHift Cluster
+13:00		Installing ACM on a OpenShift Cluster
 
 14:00		Installing and configuring RHACM on a OpenShift Cluster (LIVE)  
 
@@ -33,13 +33,14 @@ The purpose of this workshop is to show attendees the benefits of Red Hat Advanc
 
 14:45		Installing a 2nd Cluster on a HyperScaler with RHACM
 
+15:00		RHACM What's new in 2.5		
 
-15:15		Intro into LAB / HomeWork
+16:00		Intro into LAB / HomeWork
 
 		Red Hat Advanced Cluster Management for Kubernetes
 		
 		https://training-lms.redhat.com/sso/saml/auth/rhopen?RelayState=deeplinkoffering%3D43737670
 
-15:30		Start HomeWork
+16:15		end of workshop
 
 
