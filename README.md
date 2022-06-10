@@ -33,14 +33,12 @@ The purpose of this workshop is to show attendees the benefits of Red Hat Advanc
 
 14:45		Installing a 2nd Cluster on a HyperScaler with RHACM
 
-15:00		RHACM What's new in 2.5		
-
-16:00		Intro into LAB / HomeWork
+15:00		Intro into LAB / HomeWork
 
 		Red Hat Advanced Cluster Management for Kubernetes
 		
 		https://training-lms.redhat.com/sso/saml/auth/rhopen?RelayState=deeplinkoffering%3D43737670
 
-16:15		end of workshop
+16:00		end of workshop
 
 
