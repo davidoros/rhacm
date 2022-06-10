@@ -1,4 +1,4 @@
-<img src="https://github.com/alfbach/rhacm/blob/master/logo.png" width="450" height="120">
+<img src="https://github.com/alfbach/rhacm/blob/main/RHACM_logo.png" width="450" height="120">
 
 
 # Red Hat Advanced Cluster Management Workshop
