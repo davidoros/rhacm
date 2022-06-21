@@ -27,7 +27,7 @@ The purpose of this workshop is to show attendees the benefits of Red Hat Advanc
 
 12:00		BREAK
 
-13:00		Installing ACM on a OpenShift Cluster
+13:30		Installing ACM on a OpenShift Cluster
 
 14:00		Installing and configuring RHACM on a OpenShift Cluster (LIVE)  
 
