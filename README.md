@@ -8,7 +8,7 @@ https://bluejeans.com/295353006/6245
 
 ## https://www.menti.com/rvcbgbg4p8
 
-Mai 2022
+August 2022
 
 The purpose of this workshop is to show attendees the benefits of Red Hat Advanced Cluster Management for Kubernetes. Based on actual use cases the attendees will get insight into how to install and configure a multi and Hybrid cloud with RHACM.
 
