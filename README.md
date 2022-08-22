@@ -4,7 +4,7 @@
 # Red Hat Advanced Cluster Management Workshop
 ## remote version
 
-https://bluejeans.com/295353006/6245
+https://bluejeans.com/168102684/7122
 
 ## https://www.menti.com/rvcbgbg4p8
 
