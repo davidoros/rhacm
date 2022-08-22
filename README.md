@@ -35,7 +35,7 @@ The purpose of this workshop is to show attendees the benefits of Red Hat Advanc
 
 14:45		Installing a 2nd Cluster on a HyperScaler with RHACM
 
-15:00		RHACM 2.5 Whats New		
+15:00		RHACM 2.5 Whats New / Whats coming in 2.6 		
 
 15:45		Intro into LAB / HomeWork
 
