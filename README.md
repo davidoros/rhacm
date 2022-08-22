@@ -39,6 +39,12 @@ The purpose of this workshop is to show attendees the benefits of Red Hat Advanc
 
 15:45		Intro into LAB / HomeWork
 
+		Red Hat Advanced Cluster Management HandsOn
+		
+		https://training-lms.redhat.com/sso/saml/auth/rhopen?RelayState=deeplinkoffering%3D44916390
+		
+		or
+		
 		Red Hat Advanced Cluster Management for Kubernetes
 		
 		https://training-lms.redhat.com/sso/saml/auth/rhopen?RelayState=deeplinkoffering%3D43737670
